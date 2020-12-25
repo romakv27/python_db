@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 @echo hello world
 _________________
 
 second tree master
+=======
+@echo hello world 
+
+___________________
+
+third tree branch
+>>>>>>> third_branch
