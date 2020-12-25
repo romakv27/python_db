@@ -5,7 +5,7 @@ def write_database(table_name, data):
     try:
         dbConnection = pyodbc.connect("Driver={SQL Server};"
                                       "Server=DESKTOP-N6R0GB7;"
-                                      "IntShop;"
+                                      "123;"
                                       "UID=sa;"
                                       "Trusted_Connection=yes")
     except Exception:
