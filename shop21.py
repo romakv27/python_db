@@ -34,7 +34,7 @@ def genarate_products():
     return products  
 
 def product_storage():
-    storage=['Телевизо LG 2122grand 21']
+    storage=['Телевизо LG 2122grand 21', 'Телевизо Sony 331_FULL_HD_grand 21']
     return storage
 
 def product_cities():
