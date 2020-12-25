@@ -11,7 +11,7 @@ def generate_dates_birth_employees():
     for date in range(delta_dates.days + 1):
         range_dates_birth_employees.append(date_start + datetime.timedelta(date))
     return range_dates_birth_employees
-
+#genarate emp info
 def genarate_employees_info():
     employees_info=[]
     employees_status = ['женат', 'не женат']
